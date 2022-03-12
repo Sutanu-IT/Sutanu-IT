@@ -26,7 +26,7 @@
   <a href = "mailto:sutanuchandra2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   <div align="center">
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"></img>
+<img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif"></img>
 </div>
  
 </div>
