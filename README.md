@@ -16,7 +16,7 @@
 <!--   <img align="center" alt="Sutanu-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"> -->
 </div>
   
-  ###
+  ##
  
 <div> 
   <a href="https://www.linkedin.com/in/sutanu-chandra-404-not-found/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
