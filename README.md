@@ -1,6 +1,6 @@
 ### <i>Hi There ! </i> ✌️✌️✌️
 
-<div align="center" flex= 50% padding="5px">
+<div align="center" display="flex" flex= "50%" padding="5px">
   <a href="https://github.com/Sutanu-IT">
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Sutanu-IT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sutanu-IT&layout=compact&langs_count=7&theme=dracula"/>
