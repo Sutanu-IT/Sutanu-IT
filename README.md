@@ -23,9 +23,9 @@ I'm a software developer passionate about building cool stuff with code.
   </div>
   
   <div style="display: flex;">
-    <a href="https://github.com/Sutanu-IT" style="flex: 50%;">
+<!--     <a href="https://github.com/Sutanu-IT" style="flex: 50%;">
       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sutanu-IT&theme=dracula"/>
-    </a>
+    </a> -->
     <a href="https://leetcode.com/sutanuchandra" style="flex: 50%;">
       <img height="180em" src="https://leetcode-stats-six.vercel.app/api?username=sutanuchandra&theme=dark"/>
     </a>
