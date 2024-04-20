@@ -18,7 +18,7 @@
 </div>
   
   ##
- 
+
 <div> 
   <a href="https://www.linkedin.com/in/sutanu-chandra-404-not-found/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/_s_u_t_a_n_u_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -27,7 +27,7 @@
   <a href = "mailto:sutanuchandra2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   <div align="center">
-<img width = "400" height = "200"src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif"></img>
-</div>
+    <img width="400" height="200" src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif"></img>
+  </div>
  
 </div>
