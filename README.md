@@ -15,9 +15,6 @@ I'm a software developer passionate about building cool stuff with code.
 <div align="center">
   <div style="display: flex;">
     <a href="https://github.com/Sutanu-IT" style="flex: 50%;">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sutanu-IT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    </a>
-    <a href="https://github.com/Sutanu-IT" style="flex: 50%;">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sutanu-IT&layout=compact&langs_count=7&theme=dracula"/>
     </a>
   </div>
@@ -26,6 +23,9 @@ I'm a software developer passionate about building cool stuff with code.
 <!--     <a href="https://github.com/Sutanu-IT" style="flex: 50%;">
       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sutanu-IT&theme=dracula"/>
     </a> -->
+     <a href="https://github.com/Sutanu-IT" style="flex: 50%;">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sutanu-IT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    </a>
     <a href="https://leetcode.com/sutanuchandra" style="flex: 50%;">
       <img height="180em" src="https://leetcode-stats-six.vercel.app/api?username=sutanuchandra&theme=dark"/>
     </a>
