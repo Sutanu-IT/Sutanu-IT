@@ -20,9 +20,9 @@ I'm a software developer passionate about building cool stuff with code.
   </div>
   
   <div style="display: flex;">
-<!--     <a href="https://github.com/Sutanu-IT" style="flex: 50%;">
+    <a href="https://github.com/Sutanu-IT" style="flex: 50%;">
       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sutanu-IT&theme=dracula"/>
-    </a> -->
+    </a>
      <a href="https://github.com/Sutanu-IT" style="flex: 50%;">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sutanu-IT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </a>
